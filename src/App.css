@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.card-img-top {
+  width: 60% !important;
+  margin: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
